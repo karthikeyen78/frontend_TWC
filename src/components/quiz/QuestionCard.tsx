@@ -35,7 +35,7 @@ export function QuestionCard({
         <div className="w-full max-w-5xl mx-auto p-4 md:p-6 relative rounded-[40px] bg-white/30 backdrop-blur-md border border-white/50 shadow-xl my-8">
             {/* Cat Paw Graphic (Positioned relative to Glass Frame) */}
             <motion.div
-                className="absolute bottom-[-10px] left-[-10px] md:bottom-12 md:left-2 opacity-100 pointer-events-none -rotate-12 z-20 mix-blend-multiply"
+                className="absolute bottom-[-10px] left-[-30px] md:bottom-12 md:left-[-20px] opacity-100 pointer-events-none -rotate-12 z-20 mix-blend-multiply"
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
             >
