@@ -10,7 +10,7 @@ A high-fidelity, responsive React application that replicates a provided Figma d
 * **Fonts:** Playfair Display (Google Fonts), Inter
 * **Icons:** Lucide-React
 
-## ✨ Key Features
+##  Key Features
 * **Pixel-Perfect Implementation:** Meticulous attention to padding, margins, and border radii to match the Figma reference.
 * **Glassmorphism UI:** Implemented a "Double-Layer" glass effect using `backdrop-blur`, semi-transparent backgrounds, and white border overlays.
 * **Advanced Typography:**
