@@ -2,9 +2,6 @@
 
 A high-fidelity, responsive React application that replicates a provided Figma design with pixel-perfect accuracy. This project demonstrates advanced frontend skills including glassmorphism, mesh gradients, and strict layout constraints.
 
-![Project Preview](public/screenshot.png)
-## 🚀 Live Demo
-[View Live Demo](frontend-twc.vercel.app)
 
 ## 🛠 Tech Stack
 * **Framework:** React (Vite)
