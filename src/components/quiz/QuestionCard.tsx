@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from "framer-motion"
 import { ArrowLeft, ArrowRight } from "lucide-react"
-import catPawImg from "../../assets/cat-paw.png"
+import pawsGif from "../../assets/paws.gif"
 import bestOfLuckImg from "../../assets/best-of-luck.png"
 import { Button } from "../ui/Button"
 import { Card } from "../ui/Card"
@@ -39,7 +39,7 @@ export function QuestionCard({
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
             >
-                <img src={catPawImg} alt="Cat Paw" className="w-32 md:w-36 opacity-90 drop-shadow-sm" />
+                <img src={pawsGif} alt="Cat Paw" className="w-32 md:w-36 opacity-90 drop-shadow-sm" />
                 <img
                     src={bestOfLuckImg}
                     alt="Best of Luck"
