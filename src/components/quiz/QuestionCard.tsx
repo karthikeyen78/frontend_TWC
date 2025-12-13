@@ -32,7 +32,7 @@ export function QuestionCard({
     isLastQuestion
 }: QuestionCardProps) {
     return (
-        <div className="w-full max-w-[900px] mx-auto p-4 md:p-6 relative rounded-[40px] bg-white/30 backdrop-blur-md border border-white/50 shadow-xl my-8">
+        <div className="w-full max-w-5xl mx-auto p-4 md:p-6 relative rounded-[40px] bg-white/30 backdrop-blur-md border border-white/50 shadow-xl my-8">
             {/* Cat Paw Graphic (Positioned relative to Glass Frame) */}
             <motion.div
                 className="absolute bottom-[-10px] left-[-10px] md:bottom-12 md:left-2 opacity-100 pointer-events-none -rotate-12 z-20 mix-blend-multiply"
@@ -51,7 +51,7 @@ export function QuestionCard({
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5 }}
-                className="w-full px-6 md:px-16 py-10 min-h-[500px] aspect-[3/2] flex flex-col relative overflow-hidden rounded-[32px] bg-white shadow-none"
+                className="w-full px-6 md:px-16 py-10 min-h-[500px] aspect-[4/3] flex flex-col relative overflow-hidden rounded-[32px] bg-white shadow-none"
             >
                 {/* Header */}
                 <div className="text-center mb-8">
