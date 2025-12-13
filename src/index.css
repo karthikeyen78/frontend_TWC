@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Base Styles */
+body {
+  @apply bg-accent-bg text-secondary font-sans antialiased;
+  background: linear-gradient(135deg, #bfdbfe 0%, #e0f2fe 100%);
+  min-height: 100vh;
+}
