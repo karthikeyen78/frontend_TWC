@@ -1,4 +1,4 @@
-# Pixel-Perfect Quiz Interface
+# Pixel Perfect Quiz Interface
 
 A high-fidelity, responsive React application that replicates a provided Figma design with pixel-perfect accuracy. This project demonstrates advanced frontend skills including glassmorphism, mesh gradients, and strict layout constraints.
 
