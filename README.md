@@ -8,7 +8,7 @@ A high-fidelity, responsive React application that replicates a provided Figma d
 * **Language:** TypeScript
 * **Styling:** Tailwind CSS
 * **Fonts:** Playfair Display (Google Fonts), Inter
-* **Icons:** Lucide-React
+* **Icons:** Lucide React
 
 ##  Key Features
 * **Pixel-Perfect Implementation:** Meticulous attention to padding, margins, and border radii to match the Figma reference.
