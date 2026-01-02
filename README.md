@@ -4,7 +4,7 @@ A high-fidelity, responsive React application that replicates a provided Figma d
 
 
 ## 🛠 Tech Stack
-* **Framework:** React (Vite)
+* **Framework:** React.JS (Vite)
 * **Language:** TypeScript
 * **Styling:** Tailwind CSS
 * **Fonts:** Playfair Display (Google Fonts), Inter
